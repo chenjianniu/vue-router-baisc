@@ -1,0 +1,21 @@
+{
+  "name": "n.test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.20"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.15",
+    "vue-router": "^4.0.12"
+  }
+}
